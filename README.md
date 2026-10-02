@@ -6,7 +6,6 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express_5-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/) [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge)](https://opensource.org/licenses/ISC)
 
-[![Stars](https://img.shields.io/github/stars/Garvit711/E-Commerce?style=flat-square)](https://github.com/Garvit711/E-Commerce/stargazers) [![Forks](https://img.shields.io/github/forks/Garvit711/E-Commerce?style=flat-square)](https://github.com/Garvit711/E-Commerce/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Garvit711/E-Commerce?style=flat-square)](https://github.com/Garvit711/E-Commerce/commits)
 
 🔗 **Live Demo:** [_LIVE LINK_](https://e-commerce-garvit-full-stack.onrender.com/)
 
@@ -198,13 +197,6 @@ Contributions, issues, and feature requests are welcome.
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-
-## 👤 Author
-
-**Garvit**
-
-- GitHub: [@Garvit711](https://github.com/Garvit711)
-- Repository: [Garvit711/E-Commerce](https://github.com/Garvit711/E-Commerce)
 
 <div align="center">
 
