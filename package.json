@@ -1,0 +1,41 @@
+{
+  "name": "e-commerce-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Garvit711/E-Commerce#readme",
+  "bugs": {
+    "url": "https://github.com/Garvit711/E-Commerce/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garvit711/E-Commerce.git"
+  },
+  "license": "ISC",
+  "author": "Garvit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "node index.js",
+    "dev:client": "cd frontend && npm start",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build": "cd frontend && npm run build",
+    "install-all": "npm install && cd frontend && npm install"
+  },
+  "dependencies": {
+    "axios": "^1.18.1",
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.10.0",
+    "concurrently": "^10.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.7.3",
+    "multer": "^2.2.0",
+    "nodemailer": "^9.0.3",
+    "razorpay": "^2.9.6",
+    "resend": "^6.18.0"
+  }
+}
